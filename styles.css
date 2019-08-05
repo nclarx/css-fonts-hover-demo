@@ -1,0 +1,47 @@
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Saira Stencil One', cursive;
+}
+
+p, a, li {
+    font-family: 'Lato', sans-serif;
+}
+
+h1:hover {
+    color: red;
+    cursor: pointer;
+}
+
+h2:hover {
+    color: blue;
+    cursor: pointer;
+}
+
+h3:hover {
+    color: green;
+    cursor: pointer;
+}
+
+h4:hover {
+    color: yellow;
+    cursor: pointer;
+}
+
+h5:hover {
+    color: lightblue;
+    cursor: pointer;
+}
+
+h6:hover {
+    color: blueviolet;
+    cursor: pointer;
+}
+
+p:hover {
+    text-decoration: underline;
+}
